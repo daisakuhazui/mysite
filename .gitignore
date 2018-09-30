@@ -1,0 +1,7 @@
+# vscodeの設定ファイルをgit管理対象から外su
+.vscode/
+# これがどんなファイルを管理外にしてくれるかまだわからない
+*.pyc
+*.pyo
+__pycache__
+db.sqlite3
